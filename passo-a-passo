@@ -1,0 +1,14 @@
+OBJETIVO: Adicionar uma tarefa ao meu json
+
+1. Criar estrututras de pastas e arquivos
+2. Iniciar
+
+
+Atualizar porta
+Criar lógica geral
+Criar lógica para adição
+    usar fs
+Criar rota para adição
+Criar lógica para deletar
+Criar rota para deletar
+Adicionar cores
