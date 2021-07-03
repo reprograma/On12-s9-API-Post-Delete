@@ -1,14 +1,42 @@
+-> DEMANDAS DE NEGÓCIO
+
+Quero uma rota de apresentação do projeto OK
+/tarefas deve retornar todas as tarefas OK
+Devo conseguir filtrar por id OK
+
+Devo conseguir cadastrar novas tarefas, somente com o nome e descrição OK
+id tem que ser randomico 
+Toda atividade cadastrada deve conter a data e  hora que foi criada
+
+Devo conseguir deletar tarefas OK
+
+-> ROTAS
+
+{GET}/
+- Mensagem de apresentação do projeto
+
+{GET}/boas-vindas
+- Mensagem de apresentação do projeto
+
+{GET}/tarefas
+- Retornar todas as tarefas
+
+{POST}/cadastrar
+- Conseguir cadastrar uma nova tarefa
+
+{DELETE}/:id
+- Conseguir deletar uma tarefa
+
 OBJETIVO: Adicionar uma tarefa ao meu json
 
-1. Criar estrututras de pastas e arquivos
-2. Iniciar
+-> O QUE FIZEMOS EM AULA
 
-
-Atualizar porta
-Criar lógica geral
-Criar lógica para adição
-    usar fs
-Criar rota para adição
-Criar lógica para deletar
-Criar rota para deletar
-Adicionar cores
+[x]Atualizar porta
+[x]Criar lógica geral
+[x]Criar arquivo específico de rota para apresentação
+[x]Criar lógica para adição
+    [] usar fs
+[x]Criar rota para adição
+[x]Criar lógica para deletar
+[]Criar rota para deletar
+[]Adicionar cors
