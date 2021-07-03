@@ -1,16 +1,16 @@
 [
   {
     "id": "1",
-    "dataInclusao": "03/06/2021",
-    "concluido": false,
-    "descricao": "Revisar arrays no Javascript",
-    "nomeColaborador": "Beyonce"
+    "date": "03/06/2021",
+    "finished": false,
+    "description": "Revisar arrays no Javascript",
+    "author": "Beyonce"
   },
   {
     "id": "2",
-    "dataInclusao": "03/06/2021",
-    "concluido": true,
-    "descricao": "Fazer tarefa s6",
-    "nomeColaborador": "Paula"
+    "date": "03/06/2021",
+    "finished": true,
+    "description": "Fazer tarefa s6",
+    "author": "Paula"
   }
 ]
