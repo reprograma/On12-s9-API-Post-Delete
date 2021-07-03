@@ -1,4 +1,4 @@
-## Orientação para o trabalho para casa
+## Orientações
 
 Criar um servidor do zero, usando arquitetura MVC e converter as demandas de negócio em endpoints, criando as lógicas necessárias para cada rota.
 
