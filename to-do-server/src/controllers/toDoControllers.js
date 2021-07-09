@@ -52,7 +52,7 @@ const deletarTarefa = (request, response) => {
     response.status(200).send(
         [
             {
-                "message": "Tarefa deletada com sucesso!"
+                "message": "Tarefa deletada com sucesso! ✅"
             },
             tarefasJson
         ]

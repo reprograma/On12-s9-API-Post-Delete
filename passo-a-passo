@@ -38,5 +38,5 @@ OBJETIVO: Adicionar uma tarefa ao meu json
     [] usar fs
 [x]Criar rota para adição
 [x]Criar lógica para deletar
-[]Criar rota para deletar
+[x]Criar rota para deletar
 []Adicionar cors
