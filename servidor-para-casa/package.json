@@ -1,18 +1,16 @@
 {
-  "name": "to-do-server",
+  "name": "servidor-para-casa",
   "version": "1.0.0",
+  "description": "Criar um servidor do zero, usando arquitetura MVC e converter as demandas de negócio em endpoints, criando as lógicas necessárias para cada rota.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": " @ Dannyelic",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.11"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
